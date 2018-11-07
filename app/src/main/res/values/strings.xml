@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EditVideo</string>
+    <string name="title_activity_subtitle">SubtitleActivity</string>
 </resources>
