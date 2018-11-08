@@ -5,7 +5,10 @@
     android:layout_height="match_parent"
     tools:context=".TestActivity">
 
-    <com.zj.view_customized.HistogramView
+    <!--<com.zj.view_customized.HistogramView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+    <com.zj.view_customized.PieChartView
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
