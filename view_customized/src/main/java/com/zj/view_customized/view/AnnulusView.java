@@ -1,4 +1,4 @@
-package com.zj.view_customized;
+package com.zj.view_customized.view;
 
 import android.content.Context;
 import android.graphics.Canvas;

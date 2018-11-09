@@ -5,13 +5,16 @@
     android:layout_height="match_parent"
     tools:context=".TestActivity">
 
-    <!--<com.zj.view_customized.HistogramView-->
+    <!--<com.zj.view_customized.view.HistogramView-->
         <!--android:layout_width="match_parent"-->
         <!--android:layout_height="match_parent" />-->
-    <!--<com.zj.view_customized.PieChartView-->
+    <!--<com.zj.view_customized.view.PieChartView-->
         <!--android:layout_width="match_parent"-->
         <!--android:layout_height="match_parent" />-->
-    <com.zj.view_customized.AnnulusView
+    <!--<com.zj.view_customized.view.AnnulusView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+    <com.zj.view_customized.view.ClipRectView
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
